@@ -26,3 +26,5 @@ I'm a **Backend Developer** and **Software Developer** passionate about creating
 
 - [GitHub Profile](https://github.com/robelyn-25/rpinote)
 - [Email Me](mailto\:robelynpinote@gmail.com)
+- [LinkedIn](www.linkedin.com/in/robelyn-pinote-9b30b2224)
+
